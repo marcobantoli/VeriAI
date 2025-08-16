@@ -31,12 +31,6 @@ The easiest way to run the entire application is with Docker Compose:
    docker-compose up -d
    ```
 
-   On Windows, you can also use the provided script:
-
-   ```
-   run.bat
-   ```
-
 4. Access the application:
 
    - Frontend: http://localhost:5173
@@ -47,12 +41,6 @@ The easiest way to run the entire application is with Docker Compose:
 
    ```
    docker-compose down
-   ```
-
-   On Windows, you can also use the provided script:
-
-   ```
-   stop.bat
    ```
 
 ### Option 2: Manual Setup
